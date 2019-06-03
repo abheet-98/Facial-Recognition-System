@@ -7,7 +7,7 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 # Haar Cascade
 A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for, from the source. The Haar Cascade is trained by superimposing the positive image over a set of negative images. The training is generally done on a server and on various stages.
 # Requirements
-Python , Spyder(IDE)
+Python , OpenCV
 # How to run
 1.fork and then clone or just simply download zip file<br>
 2.Open spyder IDE<br>
